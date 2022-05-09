@@ -178,11 +178,19 @@ p {
   }
 
   .container-fluid-padded {
-    padding-bottom: 60%;
+    padding: 3% 10% 60%;
   }
 
   #collapsibleNavId {
     text-align: right;
+  }
+
+  #pricing {
+    padding: 100px 50px;
+  }
+
+  #cta {
+    padding: 7% 10%;
   }
 
 }
