@@ -161,7 +161,8 @@ p {
 
   .title-img {
     transform: rotate(0);
-    width: 50%;
+    width: 40%;
+    left: 30%;
   }
 
   .container-fluid-padded {
